@@ -27,12 +27,14 @@ SOURCES += \
         main.cpp \
         mainwindow.cpp \
     imageedit1.cpp \
-    imageedit2.cpp
+    imageedit2.cpp \
+    imageedit3.cpp
 
 HEADERS += \
         mainwindow.h \
     imageedit1.h \
-    imageedit2.h
+    imageedit2.h \
+    imageedit3.h
 
 FORMS += \
         mainwindow.ui
